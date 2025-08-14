@@ -1,5 +1,7 @@
 # IotFleet
 
+IoT fleet monitor simulator and ingestion server
+
 Compile:
 ```
 iex -S mix
